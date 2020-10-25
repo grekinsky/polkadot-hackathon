@@ -1,0 +1,8 @@
+{
+  "CUSTOM_TYPES": {
+    "Address": "AccountId",
+    "LookupSource": "AccountId"
+  },
+  "PROVIDER_SOCKET": "ws://127.0.0.1:9944",
+  "CONTRACT_ADDRESS": "5CUCPAzyHDTcLsV5xX6uY6f2dnhPwYAjbRWDL97keh2jUxQf"
+}
